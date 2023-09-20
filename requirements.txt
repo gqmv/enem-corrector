@@ -1,0 +1,8 @@
+fastapi
+mypy
+black
+pydantic
+uvicorn
+langchain
+openai
+python-dotenv
