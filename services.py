@@ -33,15 +33,15 @@ def get_grade_from_gpt(title: str, text: str) -> GPTGrade:
     llm = ChatOpenAI(
         model="gpt-4",
         temperature=0.2,
-        openai_api_key=os.environ["OPENAI_API_KEY"],
+        openai_api_key=os.environ["OPENAI_KEY"],
     )
     prompt = ChatPromptTemplate.from_messages(
         [
             (
                 "system",
-                "Você é uma máquina especialista em corrigir redações do Exame Nacional do Ensino Médio Brasileiro (ENEM) seguindo as normas do Ministério da Educação (MEC). Analise a seguinte redação e entregue a nota em cada uma das 5 competências, especificando claramente os motivos pelos quais a pontuação foi reduzida, caso seja.",
+                "Você é uma máquina especialista em corrigir redações do Exame Nacional do Ensino Médio Brasileiro (ENEM) seguindo as normas do Ministério da Educação (MEC). Analise a seguinte redação sobre o tema '{title}' e entregue a nota em cada uma das 5 competências, especificando claramente os motivos pelos quais a pontuação foi reduzida, caso seja.",
             ),
-            ("human", "Tema: {title}\n\n{text}"),
+            ("human", "{text}"),
         ]
     )
 
