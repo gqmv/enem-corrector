@@ -177,3 +177,5 @@ pyrightconfig.json
 
 .vscode
 .env
+.vercel
+oo.txt
