@@ -3,6 +3,7 @@ mypy
 black
 pydantic
 uvicorn
+gunicorn
 langchain
 openai
 python-dotenv
