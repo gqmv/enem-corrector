@@ -1,4 +1,4 @@
-runtime: python311
+runtime: python310
 env: flex
 resources:
   memory_gb: 1
