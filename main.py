@@ -1,7 +1,7 @@
 from fastapi import FastAPI
 from pydantic import BaseModel
 
-from .services import get_grade_from_gpt
+from services import get_grade_from_gpt
 
 
 class Essay(BaseModel):
