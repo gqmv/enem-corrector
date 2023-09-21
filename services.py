@@ -82,6 +82,8 @@ Por fim, é esperado que o candidato saiba apresentar uma proposta de intervenç
 120 pontos — a proposta é mediana e se articula razoavelmente ao problema abordado;
 160 pontos — há uma boa proposta de intervenção bem articulada ao tema;
 200 pontos — a proposta é muito bem elaborada e articulada à discussão presente no texto.
+
+Note ainda que, a fuga ao tema, a não elaboração de uma proposta de intervenção ou a não obediência à estrutura de texto dissertativo-argumentativo são motivos para zerar a redação. Nesse caso, o candidato recebe a nota 0 em todas as competências, mesmo que tenha escrito um texto com qualidade em relação à gramática e à argumentação.
 """
 
     prompt = ChatPromptTemplate.from_messages(
