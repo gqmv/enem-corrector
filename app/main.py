@@ -2,7 +2,7 @@ from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
 
-from services import get_grade_from_gpt
+from app.services import get_grade_from_gpt
 
 
 class Essay(BaseModel):
