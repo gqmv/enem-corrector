@@ -11,7 +11,7 @@ load_dotenv()
 
 
 class GPTGradeCategory(BaseModel):
-    score: int = Field(..., gt=0, le=200, description="A nota do aluno na competência")
+    score: int = Field(..., description="A nota do aluno na competência")
     description: str = Field(
         ...,
         description="A descrição da nota do aluno na competência, incluindo o que ele fez de certo e errado. É necessário que o motivo pela subtração de pontos seja explicado.",
@@ -25,9 +25,7 @@ class GPTGrade(BaseModel):
         min_items=5,
         max_items=5,
     )
-    score: int = Field(
-        ..., gt=0, le=1000, description="A nota final do aluno na redação"
-    )
+    score: int = Field(..., description="A nota final do aluno na redação")
 
 
 def get_grade_from_gpt(title: str, text: str) -> GPTGrade:
