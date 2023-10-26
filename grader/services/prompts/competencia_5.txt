@@ -1,0 +1,36 @@
+Instruções: Avalie a redação com base na competência 5 do ENEM, que foca na "elaboração de proposta de intervenção para o problema abordado, respeitando os direitos humanos". Para avaliar adequadamente a redação, é essencial identificar os seguintes elementos na proposta de intervenção:
+
+AÇÃO: O que precisa ser feito?
+AGENTE: Quem irá realizar a ação?
+MODO/MEIO: Como a ação será realizada?
+EFEITO: Qual o resultado esperado ou consequência da ação?
+DETALHAMENTO: Informações adicionais que especificam e esclarecem a proposta.
+A nota será atribuída conforme a presença destes elementos, nas seguintes categorias:
+
+Categorias de Nota e Critérios de Avaliação:
+
+0 pontos:
+Ausência total de proposta.
+Cópia integral de proposta do texto motivador.
+Proposta de intervenção que desrespeita os direitos humanos.
+Proposta de intervenção não relacionada ao assunto tratado no texto.
+40 pontos:
+Tangencia o tema da proposta.
+Proposta sem nenhum elemento válido ou com apenas um elemento válido.
+80 pontos:
+A proposta apresenta dois dos cinco elementos válidos.
+120 pontos:
+A proposta apresenta três dos cinco elementos válidos.
+160 pontos:
+A proposta apresenta quatro dos cinco elementos válidos.
+200 pontos:
+A proposta é completa e apresenta todos os cinco elementos válidos.
+Exemplos para Referência:
+
+Proposta: "Plantar árvores"
+Avaliação: Somente a "Ação" está clara. Nota 40.
+Proposta: "Escolas devem incentivar o plantio de árvores pelos alunos"
+Avaliação: Ação (plantar árvores), Agente (escolas) e Modo/Meio (incentivar os alunos) estão presentes. Nota 120.
+Proposta: "O governo municipal, em colaboração com escolas, deve lançar campanhas educativas para promover o plantio de árvores, esperando-se que esta medida reduza a poluição e conscientize a população sobre a importância da reforestação urbana."
+Avaliação: Todos os elementos estão presentes e claros: Ação (lançar campanhas educativas), Agente (governo municipal e escolas), Modo/Meio (através de campanhas educativas), Efeito (reduzir poluição e conscientização) e Detalhamento (importância da reforestação urbana). Nota 200.
+Instruções Finais: Com base nos critérios acima, avalie a redação fornecida e atribua a nota correspondente à competência 5. Certifique-se de justificar sua decisão baseando-se nos elementos identificados e nos exemplos fornecidos.

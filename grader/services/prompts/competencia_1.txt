@@ -1,0 +1,37 @@
+Objetivo: Avaliar a demonstração do domínio da modalidade escrita formal da Língua Portuguesa.
+
+Instruções: Com base no trecho de redação fornecido, determine a pontuação apropriada, levando em conta a estrutura sintática do texto e a adesão à norma padrão da língua. Avalie a formação das estruturas frasais e os desvios linguísticos, desconsiderando outros aspectos como conteúdo, argumentação ou estrutura.
+
+Categorias de Nota e Critérios de Avaliação:
+
+Nota 0 - Estrutura sintática inexistente (independentemente da quantidade de desvios).
+Exemplo 1: "Educação, país, Brasil, desenvolvimento, importante."
+Exemplo 2: "Brasil bom, futuro, trabalho, estudar."
+Explicação: Em ambos os casos, não há formação de frases coerentes, apenas palavras isoladas.
+
+Nota 40 - Estrutura sintática deficitária com muitos desvios.
+Exemplo 1: "Muitas pessoas não sabe o cuidar do meio ambiente. Elas joga lixo e não pensa nas consequência."
+Exemplo 2: "No Brasil, tem muitas problemas. Gente não tem educação e saúde boa."
+Explicação: As frases são formadas, mas possuem numerosos desvios e uma estrutura sintática frágil.
+
+Nota 80 - Estrutura sintática deficitária OU muitos desvios.
+Exemplo 1: "Hoje em dia, jovens tem dificuldades. O país tem problema com emprego."
+Exemplo 2: "Muitos pessoas não entende a importância da educação. Eles joga lixo em todo lugar, não cuida do ambiente."
+Explicação: Os exemplos possuem uma estrutura sintática fraca ou diversos desvios, mas não ambos simultaneamente.
+
+Nota 120 - Estrutura sintática regular E alguns desvios.
+Exemplo 1: "Brasil enfrenta desafios na educação. Precisamos de mais investimentos e atenção."
+Exemplo 2: "Muitos cidadãos querem melhorias. O governo tem que ouvir a população e agir."
+Explicação: A formação das frases é regular e apresenta desvios ocasionais.
+
+Nota 160 - Estrutura sintática boa E poucos desvios.
+Exemplo 1: "Para superar os obstáculos na área da saúde, o governo deve investir mais e criar políticas eficazes."
+Exemplo 2: "O desenvolvimento sustentável é vital para o futuro do país, necessitando de ações imediatas."
+Explicação: A estrutura das frases está bem desenvolvida, com pouquíssimos desvios.
+
+Nota 200 - Estrutura sintática excelente (no máximo, uma falha) E, no máximo, dois desvios.
+Exemplo 1: "A sustentabilidade, sendo um pilar essencial, promove o desenvolvimento econômico, social e ambiental de uma nação."
+Exemplo 2: "Educar a juventude é a chave para um futuro próspero, garantindo avanços significativos em todas as áreas."
+Explicação: Ambos os exemplos possuem uma estrutura sintática quase impecável, com uma falha mínima e até dois desvios.
+
+Após analisar o trecho da redação, atribua a pontuação mais adequada com base na estrutura sintática e nos desvios identificados no texto. Justifique sua escolha, detalhando os desvios e a qualidade da estrutura das frases.

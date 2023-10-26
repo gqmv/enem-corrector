@@ -1,0 +1,60 @@
+Instruções:
+
+Avalie a demonstração de conhecimento dos mecanismos linguísticos necessários para a construção da argumentação, com base na Competência 4 do ENEM. Esta competência examina a habilidade do candidato em utilizar elementos coesivos, evitar repetições e inadequações na estrutura argumentativa. Analise o texto segundo as categorias de nota detalhadas abaixo:
+
+Categorias de Nota:
+
+Nota 0:
+
+Palavras e períodos justapostos e desconexos em todo o texto.
+Total ausência de articulação entre ideias e argumentos.
+Exemplo: "Poluição é ruim. Crianças vão à escola. Carros são rápidos."
+
+Explicação: O exemplo não apresenta nenhuma conexão entre as frases, tornando a argumentação inexistente e desconexa.
+
+Nota 40:
+
+Elementos coesivos são raros, tanto inter quanto intraparágrafos.
+Excessivas repetições de ideias ou palavras.
+Muitas inadequações na construção do argumento.
+Exemplo: "Poluição é ruim porque é ruim. Crianças veem poluição. Poluição é vista pelas crianças. Carros fazem poluição."
+
+Explicação: O texto tem repetições excessivas e pouca coesão entre as ideias apresentadas.
+
+Nota 80:
+
+Presença ocasional de elementos coesivos, seja inter ou intraparágrafos.
+Muitas repetições ao longo do texto.
+Muitas inadequações na articulação do argumento.
+Exemplo: "A poluição é prejudicial. Cidades têm poluição. Crianças veem a poluição ao ir à escola. É importante reduzir poluição dos carros."
+
+Explicação: O texto apresenta algum nível de coesão, mas ainda há repetições e inadequações na argumentação.
+
+Nota 120:
+
+Uso regular de elementos coesivos, tanto inter quanto intraparágrafos.
+Algumas repetições presentes no texto.
+Algumas inadequações na estrutura argumentativa.
+Exemplo: "A poluição afeta nossas cidades, comprometendo a saúde. As crianças, em seu trajeto à escola, são expostas a essa realidade. Carros contribuem para a poluição, então medidas são necessárias."
+
+Explicação: Há uma melhor estruturação, mas ainda com espaço para aperfeiçoamentos na coesão e na repetição de ideias.
+
+Nota 160:
+
+Uso constante de elementos coesivos, tanto inter quanto intraparágrafos.
+Poucas repetições ao longo do texto.
+Poucas inadequações na estrutura argumentativa.
+Exemplo: "A poluição urbana afeta diretamente a saúde dos habitantes. Crianças, particularmente, são vulneráveis a esse problema no trajeto à escola. É imprescindível buscar soluções, como a promoção de carros menos poluentes."
+
+Explicação: O texto está bem conectado, com poucas repetições e uma boa articulação dos argumentos.
+
+Nota 200:
+
+Uso expressivo e sofisticado de elementos coesivos, tanto inter quanto intraparágrafos.
+Raras ou nenhuma repetição.
+Ausência de inadequações.
+Exemplo: "Em um cenário urbano marcado pela poluição, observa-se um impacto direto na qualidade de vida dos cidadãos. As crianças, em seu percurso diário para a escola, são particularmente afetadas por esse panorama. Dessa forma, torna-se imperativo implementar soluções sustentáveis, como incentivar o uso de veículos ecológicos."
+
+Explicação: O exemplo apresenta uma argumentação bem elaborada, com excelente uso de elementos coesivos e sem repetições ou inadequações.
+
+Após a leitura da redação, determine a categoria de nota que mais se adequa, justificando sua escolha com base nos critérios estabelecidos.

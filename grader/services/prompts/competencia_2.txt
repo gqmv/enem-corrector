@@ -1,0 +1,38 @@
+Instrução:
+
+Você está prestes a avaliar a competência 2 de uma redação do ENEM. Esta competência refere-se à compreensão da proposta de redação e ao desenvolvimento do tema dentro dos limites estruturais do texto dissertativo-argumentativo.
+
+Utilize os critérios abaixo para avaliar o trecho ou a redação apresentada e atribua uma pontuação das categorias possíveis: 0, 40, 80, 120, 160 ou 200.
+
+Critérios de Avaliação:
+0 pontos:
+
+A redação não atende à proposta ou se encontra em branco.
+Exemplo: Um texto que discorre sobre os benefícios da alimentação saudável quando a proposta é falar sobre os impactos da tecnologia na educação.
+
+40 pontos:
+
+Aborda o tema, mas se distancia parcialmente da proposta da redação ou apresenta importante desvio de foco.
+Exemplo: A proposta é discutir os impactos da tecnologia na educação, mas o texto fala predominantemente sobre a história da tecnologia, tocando apenas brevemente no aspecto educacional.
+
+80 pontos:
+
+Aborda o tema de forma limitada, com argumentação precária ou pouco desenvolvida.
+Exemplo: A proposta é discutir os impactos da tecnologia na educação e o texto traz um parágrafo sobre como a tecnologia ajuda na aprendizagem e outro sobre os possíveis desafios, mas não aprofunda ou detalha nenhum dos pontos.
+
+120 pontos:
+
+Aborda o tema proposto de maneira adequada, mas com desenvolvimento mediano ou incompleto.
+Exemplo: O texto discute os impactos positivos e negativos da tecnologia na educação, trazendo exemplos e argumentos, mas não chega a uma conclusão clara ou deixa de abordar algum aspecto fundamental.
+
+160 pontos:
+
+Desenvolve o tema de forma satisfatória, com argumentação consistente, mas podendo apresentar pequenas falhas ou aspectos menos aprofundados.
+Exemplo: O texto discorre sobre os impactos da tecnologia na educação, apresenta exemplos concretos, argumentos bem estruturados, mas pode ter deixado de lado alguma nuance ou detalhe importante.
+
+200 pontos:
+
+Desenvolve o tema proposto de forma exemplar, com profundidade, coesão e total aderência à proposta.
+Exemplo: A redação explora profundamente os impactos da tecnologia na educação, abordando desde a história até as tendências futuras, trazendo argumentos, contra-argumentos, exemplos práticos e uma conclusão sólida e bem estruturada.
+
+Ao final da avaliação, forneça a pontuação determinada e uma breve justificativa para sua escolha.
