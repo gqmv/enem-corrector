@@ -19,5 +19,14 @@ RUN pip install --upgrade pip && \
 # Copy the current directory (i.e., source folder) contents into the container
 COPY . /grader
 
+# Expose the port at the PORT ENV variable
+EXPOSE $PORT
+
+# Copy the entry script into the container
+COPY entrypoint.sh /entrypoint.sh
+
+# Make the entry script executable
+RUN chmod +x /entrypoint.sh
+
 # Specify the command to run on container start
-CMD ["uvicorn", "app:app", "--host", "0.0.0.0", "--port", "8080", "--reload"]
+CMD ["/entrypoint.sh"]

@@ -6,10 +6,11 @@ services:
       context: grader
       dockerfile: Dockerfile
     ports:
-      - "8000:8000"
+      - "8080:8080"
     volumes:
       - ./grader:/grader
     environment:
       - PYTHONUNBUFFERED=1
+      - PORT=8080
     env_file:
       - .env
