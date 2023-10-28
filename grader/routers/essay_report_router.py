@@ -4,10 +4,10 @@ from domain.essay_report import CompetencyReport, EssayReport
 from fastapi import APIRouter
 from services.essay_grader_service import get_grade_from_gpt
 
-router = APIRouter(prefix="/essay_report")
+router = APIRouter(prefix="/reports")
 
 
-@router.post("/essay")
+@router.post("/")
 async def submit_essay(essay: Essay) -> EssayReport:
     """Receives an essay and returns a report with the grade for each competency."""
 
